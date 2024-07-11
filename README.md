@@ -34,7 +34,7 @@ ChatterBox is a video call application similar to Zoom. It allows users to join 
 
 1. Start the development server:
     ```bash
-    npm start
+    npm run dev
     ```
 2. Open your web browser and go to `http://localhost:3000`.
 
