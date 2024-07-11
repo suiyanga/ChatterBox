@@ -11,7 +11,7 @@ const HomePage = () => {
 
 
   return (
-    <div className="h-screen flex items-center flex-col justify-center">
+    <div className="h-screen flex items-center flex-col justify-center bg-custom-image bg-cover bg-center bg-no-repeat">
       <h1 className="text-[25px] mb-[1rem] md:text-[30px] lg:text-[40px] text-center font-bold leading-[4rem] text-cyan-600">
         ChatterBox
       </h1>

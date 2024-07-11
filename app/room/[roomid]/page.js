@@ -38,7 +38,7 @@ const Room = ({params}) => {
   return (
     <div 
     ref={myMeeting}
-    className="w-[100w] h-[100vh]">
+    className="w-[100w] h-[100vh] flex items-center flex-col justify-center bg-custom-image bg-cover bg-center bg-no-repeat">
     </div>
   )
 };
