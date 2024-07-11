@@ -51,10 +51,6 @@ ChatterBox is a video call application similar to Zoom. It allows users to join 
 ### Testing the Application
 
 To test the functionality of ChatterBox, use "suiyanga" as the Room ID.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ---
 
 Feel free to reach out if you have any questions or issues!
